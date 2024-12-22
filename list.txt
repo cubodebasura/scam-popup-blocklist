@@ -1,0 +1,67 @@
+# Prevent pop-up scams and some malicious remote access tools
+# often used by scammres to connect to victim computers.
+#
+# Potentially legitimate softawre such as TeamViewer and AnyDesk
+# are not included in this blocklist.
+
+# ConnectWises
+cwhelp.top
+olut1.top
+passefund.info
+ghelp1.org
+bscare.help
+v24.help
+nxcare.info
+ppcare.info
+rbcare.info
+
+# Scam popups
+1124zdm6jr0ja4l2x2i9pdv7.z13.web.core.windows.net
+acwefre34sd.pages.dev
+amsgytehk.z13.web.core.windows.net
+appinf0restonverms186y.pages.dev
+appinforyvjhf6454ms1a.pages.dev
+asdfdsga01afasgsa.z33.web.core.windows.net
+bestonlinedeals.site
+c25-n13-us-windows.pages.dev
+c39-n16-us-customersupport.pages.dev
+c39-n16-us-fixwindowsnow.pages.dev
+dxrtszefcgchbms11.pages.dev
+fgxcfg56edtydch.pages.dev
+he110ca11he1lpn0wwb112.pages.dev
+inf0edgeygfmyfg3.pages.dev
+inf0egtebwqms11a.pages.dev
+jkjkjkkkiii.z21.web.core.windows.net
+klosbaocfitez.z1.web.core.windows.net
+krilos.sinformations.cfd
+ljdl89djw89u8u9d-hrepdwemeehubdhe.z03.azurefd.net
+main.d1qchok6aagx48.amplifyapp.com
+main.d29o9j8gyr38x8.amplifyapp.com
+main.d3dyy7xfwp1oyn.amplifyapp.com
+main.drzfldjlkyuqz.amplifyapp.com
+micral109.sg-host.com
+micral110.sg-host.com
+micral111.sg-host.com
+micral113.sg-host.com
+monkfish-app-blb5w.ondigitalocean.app
+ncnjbcjbcjbcbcbcbjcbjcbbjkka.pages.dev
+open-3mg.pages.dev
+projectagent47.pages.dev
+rtdxtg54drtr.pages.dev
+satdxf2fgw.pages.dev
+securee053.z13.web.core.windows.net
+securityerror993shet5w.z13.web.core.windows.net
+testz-98m.pages.dev
+track2.111ssshh-j3.com
+track3.222fccczz-z1.com
+track6.111jjmbb-n3.com
+ttidiudsiou.z5.web.core.windows.net
+ugssdg5634fgwevfged.pages.dev
+uyttytrrffyyyyy.z13.web.core.windows.net
+vbc5ectfugjuf6e.pages.dev
+volmar.sinformations.cfd
+windows-update-service.pages.dev
+windsspptman.github.io
+wiwwwin.z13.web.core.windows.net
+yrdyr65rdrfd.pages.dev
+ytbeuk.z13.web.core.windows.net
