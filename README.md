@@ -1,5 +1,5 @@
 # Introducing the Scam Pop-Up Blocklist
-Simply copy https://raw.githubusercontent.com/cubodebasura/scam-popup-blocklist/refs/heads/main/list.txt into your Pi-hole config.
+Simply copy and paste the URL https://raw.githubusercontent.com/cubodebasura/scam-popup-blocklist/master/list.txt into your Pi-hole adlist config.
 
 ## What does this list block?
 This list mainly aims to block scam pop-ups (think "Windows virus! Call this toll-free number!").
