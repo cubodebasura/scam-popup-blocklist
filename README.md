@@ -3,6 +3,7 @@ Simply copy https://raw.githubusercontent.com/cubodebasura/scam-popup-blocklist/
 
 ## What does this list block?
 This list mainly aims to block scam pop-ups (think "Windows virus! Call this toll-free number!").
+It also blocks a few ConnectWise (ScreenConnect) servers that have been identified as belonging to scammers.
 
 ## How reliable is it?
 Some domains are added to here before the scammers even have a chance to deploy them.
