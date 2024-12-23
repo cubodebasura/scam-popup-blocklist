@@ -1,7 +1,7 @@
 # Prevent pop-up scams and some malicious remote access tools
 # often used by scammers to connect to victim computers.
 #
-# Potentially legitimate softawre such as TeamViewer and AnyDesk
+# Potentially legitimate software such as TeamViewer and AnyDesk
 # are not included in this blocklist.
 
 # ConnectWises
