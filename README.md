@@ -6,6 +6,6 @@ This list mainly aims to block scam pop-ups (think "Windows virus! Call this tol
 It also blocks a few ConnectWise (ScreenConnect) servers that have been identified as belonging to scammers.
 
 ## How reliable is it?
-Some domains are added to here before the scammers even have a chance to deploy them.
+The automated means some domains are added to here before the scammers even have a chance to deploy them.
 It does appear to block more US-aimed Microsoft scams, but some others have been found too.
 A solution is being worked on to find pop-ups targeting other countries, such as Australia, Ireland, UK, and New Zealand.
