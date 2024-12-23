@@ -36,10 +36,8 @@ rbcare.info
 12th9z2c3p43352.z31.web.core.windows.net
 12thr1n9g5s45122.z31.web.core.windows.net
 130nov26ww.z13.web.core.windows.net
-143.244.165.119
 14thj8d2w7x80511.z31.web.core.windows.net
 14thr3t5g1y18511.z31.web.core.windows.net
-159.223.126.211
 15msj5hvp6dyeerg8.z1.web.core.windows.net
 1706253907.rsc.cdn77.org
 17julymicrobug1.pages.dev
